@@ -1,0 +1,65 @@
+
+
+.divpadre{
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.divhijos{
+    text-align: center;
+    width: calc(25% - 20px);
+}
+
+.cabecera{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    align-items: stretch;
+}
+
+
+.suscribirse{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.titulo{
+    display: flex;
+    line-height: 0px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.promociones{
+    color: red;
+}
+
+.contactos{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.telefonocontacto{
+    color: green;
+}
+
+.colorspan{
+    color: green;
+}
+
+.lineasuscribete{
+    text-decoration-line: underline;
+}
+
+.padre{
+    display: flex;
+}
+
+.hijos{
+    display: flex;
+}
+
