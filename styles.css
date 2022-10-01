@@ -19,6 +19,7 @@
 }
 
 
+
 .suscribirse{
     text-align: center;
     margin-bottom: 40px;
@@ -63,3 +64,38 @@
     display: flex;
 }
 
+.alineacion{
+    flex-direction: column;
+    display: inline;
+    }
+
+.posicion{
+    position: absolute;
+    position: fixed;
+    top: ;
+    left: ;
+}
+ 
+
+.colormenu{
+    color: black;
+    text-decoration: none;
+}
+
+.colorpromo{
+    color: red;
+    text-decoration: none;
+}
+
+.correcion{
+    margin-left: 38px;
+}
+
+.correcion2{
+    margin-left: 60px;
+}
+
+
+.correcion3{
+    margin-left: 21px;
+}
